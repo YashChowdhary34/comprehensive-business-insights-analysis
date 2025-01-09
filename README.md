@@ -25,11 +25,11 @@ The three projects included in this repository are:
 ---
 
 ## Key Business Problems Solved
-### [Zomato Data Analysis](https://github.com/YashChowdhary34/zomato-data-analysis-SQL)
-This project dives deep into the food delivery ecosystem by analyzing data from Zomato. The focus is on:
-- Identifying top-performing cuisines and restaurants.
-- Uncovering price trends and consumer preferences.
-- Evaluating geographic performance and market dynamics.
+### [Amazon Data Analysis](https://github.com/YashChowdhary34/amazon-data-analysis-SQL)
+An in-depth analysis of Amazon's e-commerce data to:
+- Investigate sales performance and revenue drivers.
+- Examine customer segmentation and shopping behavior.
+- Uncover trends in product categories and pricing strategies.
 
 ### [Netflix Data Analysis](https://github.com/YashChowdhary34/netflix-data-analysis-SQL)
 A detailed exploration of Netflix's vast dataset to:
@@ -37,11 +37,11 @@ A detailed exploration of Netflix's vast dataset to:
 - Analyze content production trends and release strategies.
 - Assess user engagement and retention metrics.
 
-### [Amazon Data Analysis](https://github.com/YashChowdhary34/amazon-data-analysis-SQL)
-An in-depth analysis of Amazon's e-commerce data to:
-- Investigate sales performance and revenue drivers.
-- Examine customer segmentation and shopping behavior.
-- Uncover trends in product categories and pricing strategies.
+### [Zomato Data Analysis](https://github.com/YashChowdhary34/zomato-data-analysis-SQL)
+This project dives deep into the food delivery ecosystem by analyzing data from Zomato. The focus is on:
+- Identifying top-performing cuisines and restaurants.
+- Uncovering price trends and consumer preferences.
+- Evaluating geographic performance and market dynamics.
 
 ---
 
